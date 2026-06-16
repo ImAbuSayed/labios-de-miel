@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/labios-de-miel/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Labios de miel](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/labios-de-miel/) |
+| **Get License** | [Official Music Licensing for Labios de miel](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/labios-de-miel/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `e9db7467c97610139982c6a5d2020a263deb88f5f4f5721424ff77941e62bb77` |
 | **Timestamp** | June 16, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
